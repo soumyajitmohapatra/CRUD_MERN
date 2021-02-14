@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
     <Router>
-      <Suspense fallback={<div>Loading...</div>}>
+      <Suspense fallback={<div>Loading......</div>}>
       <Switch>
         <>
           <Route path='/' exact component={Form} />
