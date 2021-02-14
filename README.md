@@ -1,1 +1,1 @@
-## CRUD apllication using MERK.
+## SIMPLE CRUD apllication using MERN.
